@@ -1,0 +1,1 @@
+GitHub Desktop tracks all changes to all files as you edit them. You can decide how to group the changes to create meaningful commits.
